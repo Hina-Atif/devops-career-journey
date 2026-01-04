@@ -36,5 +36,10 @@ This repository reflects my learning mindset, consistency, and ability to adapt 
 📌 This journey is ongoing, and this repository will continue to evolve as I build and learn.
 
 hinaatif355@gmail.com
+
+
 https://www.linkedin.com/in/hina-atif-devopsengineer/
+
+
+
 https://medium.com/@hinaatif355
