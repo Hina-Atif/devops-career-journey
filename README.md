@@ -18,7 +18,7 @@ I transitioned into Cloud and DevOps by focusing on:
 - Continuous learning and improvement
 
 ## What I’ve Worked On
-- AWS cloud deployments (EC2, S3, IAM)
+- AWS cloud deployments (EC2, S3, IAM, RDS, ECS, ECR, EKS, CloudWatch, Lambda, DynamoDB)
 - Serverless applications
 - Dockerized applications
 - CI/CD pipelines
